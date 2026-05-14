@@ -1,0 +1,13 @@
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/bayamsellam
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/flutter_assets/shaders/stretch_effect.frag
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/herve/Documents/web- application/BayamSellam/bayam-mobile/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
